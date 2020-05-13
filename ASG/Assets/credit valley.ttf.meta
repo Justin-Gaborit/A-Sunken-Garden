@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: f416dca4181bdc047b662b3bf154a501
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Credit Valley
+  fontNames:
+  - Credit Valley
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4b5132d340f4de149ad70d0793e4afcb, type: 3}
+  - {fileID: 12800000, guid: 379c435e6995bab4bb18f0d112e7cd86, type: 3}
+  - {fileID: 12800000, guid: d7245f5e61269f84a817806ce6984d0f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
